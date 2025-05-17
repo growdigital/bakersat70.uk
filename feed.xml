@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Baker’s @70</title>
+    <link href="https://growdigital.github.io/bakersat70.uk/feed.xml" rel="self" />
+    <link href="https://growdigital.github.io/bakersat70.uk" />
+    <updated>2025-05-17T23:00:48+01:00</updated>
+    <author>
+        <name>Trina Pittman</name>
+    </author>
+    <id>https://growdigital.github.io/bakersat70.uk</id>
+
+    <entry>
+        <title>Test post to see how we go</title>
+        <author>
+            <name>Trina Pittman</name>
+        </author>
+        <link href="https://growdigital.github.io/bakersat70.uk/test-post-to-see-how-we-go.html"/>
+        <id>https://growdigital.github.io/bakersat70.uk/test-post-to-see-how-we-go.html</id>
+
+        <updated>2025-05-17T23:00:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Erm, Cornus mas I think
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://res.cloudinary.com/growdigital/image/upload/v1742506972/180728-Cornus-mas-berry-Andreas-Rockstein.webp" alt="berries" width="1791" height="1007" data-is-external-image="true"><figcaption>Erm, Cornus mas I think</figcaption></figure>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

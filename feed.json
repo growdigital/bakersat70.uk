@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Baker’s @70",
+    "description": "",
+    "home_page_url": "https://growdigital.github.io/bakersat70.uk",
+    "feed_url": "https://growdigital.github.io/bakersat70.uk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Trina Pittman"
+    },
+    "items": [
+        {
+            "id": "https://growdigital.github.io/bakersat70.uk/test-post-to-see-how-we-go.html",
+            "url": "https://growdigital.github.io/bakersat70.uk/test-post-to-see-how-we-go.html",
+            "title": "Test post to see how we go",
+            "summary": "Erm, Cornus mas I think",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://res.cloudinary.com/growdigital/image/upload/v1742506972/180728-Cornus-mas-berry-Andreas-Rockstein.webp\" alt=\"berries\" width=\"1791\" height=\"1007\" data-is-external-image=\"true\"><figcaption>Erm, Cornus mas I think</figcaption></figure>\n<p> </p>",
+            "author": {
+                "name": "Trina Pittman"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-17T23:00:48+01:00",
+            "date_modified": "2025-05-17T23:00:48+01:00"
+        }
+    ]
+}
