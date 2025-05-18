@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Baker’s @70</title>
-    <link href="https://growdigital.github.io/bakersat70.uk/feed.xml" rel="self" />
-    <link href="https://growdigital.github.io/bakersat70.uk" />
+    <link href="https://bakersat70.uk/feed.xml" rel="self" />
+    <link href="https://bakersat70.uk" />
     <updated>2025-05-17T23:00:48+01:00</updated>
     <author>
         <name>Trina Pittman</name>
     </author>
-    <id>https://growdigital.github.io/bakersat70.uk</id>
+    <id>https://bakersat70.uk</id>
 
     <entry>
         <title>Test post to see how we go</title>
         <author>
             <name>Trina Pittman</name>
         </author>
-        <link href="https://growdigital.github.io/bakersat70.uk/test-post-to-see-how-we-go.html"/>
-        <id>https://growdigital.github.io/bakersat70.uk/test-post-to-see-how-we-go.html</id>
+        <link href="https://bakersat70.uk/test-post-to-see-how-we-go.html"/>
+        <id>https://bakersat70.uk/test-post-to-see-how-we-go.html</id>
 
         <updated>2025-05-17T23:00:48+01:00</updated>
             <summary>
