@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://bakersat70.uk/fruit-loop.html",
+            "url": "https://bakersat70.uk/fruit-loop.html",
+            "title": "Fruit Loop 27th June 2025",
+            "summary": "Martin goes crazy with paintings of things with fruit",
+            "content_html": "<p>Martin goes crazy with paintings of things with fruit</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://bakersat70.uk/media/posts/3/il_fullxfull.1473710890_4xk8-3404777538.jpg\" alt=\"\" width=\"2012\" height=\"1638\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-xs.jpg 300w ,https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-sm.jpg 480w ,https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-md.jpg 768w ,https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-xl.jpg 1200w ,https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-xxl.jpg 1600w ,https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-xxxl.jpg 1920w\"></figure>",
+            "image": "https://bakersat70.uk/media/posts/3/il_fullxfull.1473710890_4xk8-3404777538-2.jpg",
+            "author": {
+                "name": "Trina Pittman"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-05-29T15:27:59+01:00",
+            "date_modified": "2025-05-29T15:33:56+01:00"
+        },
+        {
             "id": "https://bakersat70.uk/test-post-to-see-how-we-go.html",
             "url": "https://bakersat70.uk/test-post-to-see-how-we-go.html",
             "title": "Test post to see how we go",
