@@ -3,14 +3,14 @@
     <title>Baker’s @70</title>
     <link href="https://bakersat70.uk/feed.xml" rel="self" />
     <link href="https://bakersat70.uk" />
-    <updated>2025-05-29T15:33:56+01:00</updated>
+    <updated>2025-05-31T15:41:28-07:00</updated>
     <author>
         <name>Trina Pittman</name>
     </author>
     <id>https://bakersat70.uk</id>
 
     <entry>
-        <title>Fruit Loop 27th June 2025</title>
+        <title>Fruit Loop 25 th October - 8th November 2025</title>
         <author>
             <name>Trina Pittman</name>
         </author>
@@ -18,18 +18,22 @@
         <id>https://bakersat70.uk/fruit-loop.html</id>
         <media:content url="https://bakersat70.uk/media/posts/3/il_fullxfull.1473710890_4xk8-3404777538-2.jpg" medium="image" />
 
-        <updated>2025-05-29T15:27:59+01:00</updated>
+        <updated>2025-05-29T07:27:59-07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bakersat70.uk/media/posts/3/il_fullxfull.1473710890_4xk8-3404777538-2.jpg" alt="" />
-                    Martin goes crazy with paintings of things with fruit
+                    Spartan apple By Trina Pittman hayes
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://bakersat70.uk/media/posts/3/il_fullxfull.1473710890_4xk8-3404777538-2.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Martin goes crazy with paintings of things with fruit</p>
-<figure class="post__image"><img loading="lazy"  src="https://bakersat70.uk/media/posts/3/il_fullxfull.1473710890_4xk8-3404777538.jpg" alt="" width="2012" height="1638" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-xs.jpg 300w ,https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-sm.jpg 480w ,https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-md.jpg 768w ,https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-xl.jpg 1200w ,https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-xxl.jpg 1600w ,https://bakersat70.uk/media/posts/3/responsive/il_fullxfull.1473710890_4xk8-3404777538-xxxl.jpg 1920w"></figure>
+                <p> </p>
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://bakersat70.uk/media/posts/3/gallery/IMG_3221.jpeg" data-size="3072x2304"><img loading="lazy" src="https://bakersat70.uk/media/posts/3/gallery/IMG_3221-thumbnail.jpeg" alt="" width="768" height="576"></a>
+<figcaption>Spartan apple By Trina Pittman hayes</figcaption>
+</figure>
+</div></div>
             ]]>
         </content>
     </entry>
@@ -41,15 +45,16 @@
         <link href="https://bakersat70.uk/test-post-to-see-how-we-go.html"/>
         <id>https://bakersat70.uk/test-post-to-see-how-we-go.html</id>
 
-        <updated>2025-05-17T23:00:48+01:00</updated>
+        <updated>2025-05-17T15:00:48-07:00</updated>
             <summary>
                 <![CDATA[
-                    Erm, Cornus mas I think
+                    Erm, Cornus mas I think The fruit looks poisonous yet Jake said they were really tasty and now I'm&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <figure class="post__image"><img loading="lazy"  src="https://res.cloudinary.com/growdigital/image/upload/v1742506972/180728-Cornus-mas-berry-Andreas-Rockstein.webp" alt="berries" width="1791" height="1007" data-is-external-image="true"><figcaption>Erm, Cornus mas I think</figcaption></figure>
+<h1><em><strong>The fruit looks poisonous yet Jake said they were really tasty and now I'm on the toilet</strong></em></h1>
 <p> </p>
             ]]>
         </content>
